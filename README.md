@@ -1,7 +1,7 @@
 <div align="center">
 
 # Durai Rajamanickam
-### VP AI | Causal ML Author | Open-Source Builder
+### VP AI | Causal ML Author 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durai-rajamanickam)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8449-3460)

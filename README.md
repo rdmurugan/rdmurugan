@@ -3,9 +3,9 @@
 # Durai Rajamanickam
 ### VP AI | Causal ML Author 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durai-rajamanickam)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8449-3460)
-[![GitHub followers](https://img.shields.io/github/followers/rdmurugan?style=for-the-badge&color=blue)](https://github.com/rdmurugan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600)](https://www.linkedin.com/in/durai-rajamanickam)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&cacheSeconds=3600)](https://orcid.org/0009-0000-8449-3460)
+[![GitHub followers](https://img.shields.io/github/followers/rdmurugan?style=for-the-badge&color=blue&cacheSeconds=3600)](https://github.com/rdmurugan)
 
 </div>
 
